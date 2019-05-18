@@ -1,5 +1,5 @@
 module.exports = {
-  serve: 'http://34.80.180.30:3000/',
+  serve: 'http://star93.site:3000/',
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess'
