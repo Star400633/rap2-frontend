@@ -1,5 +1,5 @@
 module.exports = {
-  serve: 'http://rap2api.taobao.org',
+  serve: 'http://34.80.180.30:3000/',
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess'
